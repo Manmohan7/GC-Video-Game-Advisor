@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Video Game Advisor</string>
+    <string name="video_games">Video Games</string>
+    <string name="find_games">Look for Games</string>
+    <string name="genre_description">Genre Description</string>
+    <string-array name="game_genres">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Strategy</item>
+        <item>Sports</item>
+        <item>RPG</item>
+    </string-array>
+
+    <string-array name="game_genres_desc">
+        <item>Emphasizes physical challenges, including hand–eye coordination and reaction-time</item>
+        <item>Usually presents danger, or gives the reader a sense of excitement</item>
+        <item>Emphasizes thinking and planning over direct instant action in order to achieve victory</item>
+        <item>Simulates the practice of sports</item>
+        <item>The player controls the actions of a character (or several party members) immersed in some well-defined world, usually involving some form of character development by way of recording statistics</item>
+    </string-array>
+
+</resources>
